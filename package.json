@@ -1,5 +1,8 @@
 {
-  "name": "react-component-lib",
+  "name": "@conradtrost/react-component-lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/conradtrost"
+  },
   "version": "0.0.1",
   "description": "Single template for custom react components",
   "scripts": {
